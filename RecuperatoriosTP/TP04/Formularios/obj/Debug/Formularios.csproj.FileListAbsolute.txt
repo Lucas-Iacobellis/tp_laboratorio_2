@@ -1,0 +1,364 @@
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Formularios\bin\Debug\Formularios.exe
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Formularios\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Formularios\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Formularios\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Formularios\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Formularios\obj\Debug\Formularios.FrmClientes.resources
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Formularios\obj\Debug\Formularios.FrmCompras.resources
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Formularios\obj\Debug\Formularios.FrmEmpleados.resources
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Formularios\obj\Debug\Formularios.FrmLogin.resources
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Formularios\obj\Debug\Formularios.FrmMenu.resources
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Formularios\obj\Debug\Formularios.FrmProductos.resources
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Formularios\obj\Debug\Formularios.exe
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Formularios\bin\Debug\Formularios.exe
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Formularios\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Formularios\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Formularios\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Formularios\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Formularios\obj\Debug\Formularios.FrmClientes.resources
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Formularios\obj\Debug\Formularios.FrmCompras.resources
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Formularios\obj\Debug\Formularios.FrmEmpleados.resources
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Formularios\obj\Debug\Formularios.FrmLogin.resources
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Formularios\obj\Debug\Formularios.FrmMenu.resources
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Formularios\obj\Debug\Formularios.FrmProductos.resources
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Formularios\obj\Debug\Formularios.exe
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Formularios\bin\Debug\Exepciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Formularios\bin\Debug\Serializacion.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Formularios\bin\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Formularios\bin\Debug\Exepciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Formularios\bin\Debug\Serializacion.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Formularios\bin\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\RecuperatorioPrimerParcial\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Windows\Desktop\RecuperatorioPrimerParcial\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Formularios.exe
+C:\Users\Windows\Desktop\RecuperatorioPrimerParcial\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Windows\Desktop\RecuperatorioPrimerParcial\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\RecuperatorioPrimerParcial\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Exepciones.dll
+C:\Users\Windows\Desktop\RecuperatorioPrimerParcial\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Serializacion.dll
+C:\Users\Windows\Desktop\RecuperatorioPrimerParcial\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\RecuperatorioPrimerParcial\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\RecuperatorioPrimerParcial\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\RecuperatorioPrimerParcial\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Exepciones.pdb
+C:\Users\Windows\Desktop\RecuperatorioPrimerParcial\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Serializacion.pdb
+C:\Users\Windows\Desktop\RecuperatorioPrimerParcial\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\RecuperatorioPrimerParcial\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\RecuperatorioPrimerParcial\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\RecuperatorioPrimerParcial\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.FrmClientes.resources
+C:\Users\Windows\Desktop\RecuperatorioPrimerParcial\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.FrmCompras.resources
+C:\Users\Windows\Desktop\RecuperatorioPrimerParcial\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.FrmEmpleados.resources
+C:\Users\Windows\Desktop\RecuperatorioPrimerParcial\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.FrmLogin.resources
+C:\Users\Windows\Desktop\RecuperatorioPrimerParcial\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.FrmMenu.resources
+C:\Users\Windows\Desktop\RecuperatorioPrimerParcial\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.FrmProductos.resources
+C:\Users\Windows\Desktop\RecuperatorioPrimerParcial\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Windows\Desktop\RecuperatorioPrimerParcial\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\RecuperatorioPrimerParcial\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\RecuperatorioPrimerParcial\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Windows\Desktop\RecuperatorioPrimerParcial\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.exe
+C:\Users\Windows\Desktop\RecuperatorioPrimerParcial\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Formularios.exe
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Serializacion.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Serializacion.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.FrmClientes.resources
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.FrmCompras.resources
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.FrmEmpleados.resources
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.FrmLogin.resources
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.FrmMenu.resources
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.FrmProductos.resources
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.exe
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Formularios.exe
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Serializacion.dll
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Serializacion.pdb
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Formularios\bin\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.FrmClientes.resources
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.FrmCompras.resources
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.FrmEmpleados.resources
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.FrmLogin.resources
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.FrmMenu.resources
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.FrmProductos.resources
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.exe
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.FrmClientes.resources
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.FrmVentas.resources
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.FrmEmpleados.resources
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.FrmLogin.resources
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.FrmMenu.resources
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.FrmProductos.resources
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.exe
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Formularios.exe
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Serializacion.dll
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Serializacion.pdb
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\CapaDeNegocio.dll
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\BaseDeDatos.dll
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\CapaDeNegocio.pdb
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\BaseDeDatos.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Formularios.exe
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\CapaDeNegocio.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Serializacion.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\BaseDeDatos.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\CapaDeNegocio.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Serializacion.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\BaseDeDatos.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.FrmClientes.resources
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.FrmVentas.resources
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.FrmEmpleados.resources
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.FrmLogin.resources
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.FrmMenu.resources
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.FrmProductos.resources
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.exe
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Formularios.exe
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\CapaDeNegocio.dll
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Entidades.dll
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Excepciones.dll
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Serializacion.dll
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Validaciones.dll
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\BaseDeDatos.dll
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Interfaces.dll
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\CapaDeNegocio.pdb
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Entidades.pdb
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Excepciones.pdb
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Serializacion.pdb
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Validaciones.pdb
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\BaseDeDatos.pdb
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\bin\Debug\Interfaces.pdb
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.FrmClientes.resources
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.FrmVentas.resources
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.FrmEmpleados.resources
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.FrmLogin.resources
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.FrmMenu.resources
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.FrmProductos.resources
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.exe
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\obj\Debug\Formularios.FrmClientes.resources
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\obj\Debug\Formularios.FrmVentas.resources
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\obj\Debug\Formularios.FrmEmpleados.resources
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\obj\Debug\Formularios.FrmLogin.resources
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\obj\Debug\Formularios.FrmMenu.resources
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\obj\Debug\Formularios.FrmProductos.resources
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\obj\Debug\Formularios.exe
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\bin\Debug\Formularios.exe
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\bin\Debug\CapaDeNegocio.dll
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\bin\Debug\Entidades.dll
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\bin\Debug\Excepciones.dll
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\bin\Debug\Serializacion.dll
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\bin\Debug\Validaciones.dll
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\bin\Debug\BaseDeDatos.dll
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\bin\Debug\Interfaces.dll
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\bin\Debug\CapaDeNegocio.pdb
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\bin\Debug\Entidades.pdb
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\bin\Debug\Excepciones.pdb
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\bin\Debug\Serializacion.pdb
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\bin\Debug\Validaciones.pdb
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\bin\Debug\BaseDeDatos.pdb
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\bin\Debug\Interfaces.pdb
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\bin\Debug\Formularios.exe
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\bin\Debug\CapaDeNegocio.dll
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\bin\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\bin\Debug\Serializacion.dll
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\bin\Debug\BaseDeDatos.dll
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\bin\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\bin\Debug\CapaDeNegocio.pdb
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\bin\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\bin\Debug\Serializacion.pdb
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\bin\Debug\BaseDeDatos.pdb
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\bin\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\obj\Debug\Formularios.FrmClientes.resources
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\obj\Debug\Formularios.FrmVentasRealizadas.resources
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\obj\Debug\Formularios.FrmEmpleados.resources
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\obj\Debug\Formularios.FrmLogin.resources
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\obj\Debug\Formularios.FrmMenu.resources
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\obj\Debug\Formularios.FrmVentas.resources
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\obj\Debug\Formularios.exe
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\bin\Debug\Formularios.exe
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\bin\Debug\CapaDeNegocio.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\bin\Debug\Entidades.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\bin\Debug\Excepciones.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\bin\Debug\Serializacion.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\bin\Debug\Validaciones.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\bin\Debug\BaseDeDatos.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\bin\Debug\Interfaces.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\bin\Debug\CapaDeNegocio.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\bin\Debug\Entidades.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\bin\Debug\Excepciones.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\bin\Debug\Serializacion.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\bin\Debug\Validaciones.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\bin\Debug\BaseDeDatos.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\bin\Debug\Interfaces.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\obj\Debug\Formularios.FrmClientes.resources
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\obj\Debug\Formularios.FrmVentasRealizadas.resources
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\obj\Debug\Formularios.FrmEmpleados.resources
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\obj\Debug\Formularios.FrmLogin.resources
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\obj\Debug\Formularios.FrmMenu.resources
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\obj\Debug\Formularios.FrmVentas.resources
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\obj\Debug\Formularios.exe
+C:\Users\Guada\Documents\Clases\TP04 30-11\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\bin\Debug\Formularios.exe
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\bin\Debug\CapaDeNegocio.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\bin\Debug\Entidades.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\bin\Debug\Excepciones.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\bin\Debug\Serializacion.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\bin\Debug\Validaciones.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\bin\Debug\BaseDeDatos.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\bin\Debug\Interfaces.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\bin\Debug\CapaDeNegocio.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\bin\Debug\Entidades.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\bin\Debug\Excepciones.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\bin\Debug\Serializacion.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\bin\Debug\Validaciones.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\bin\Debug\BaseDeDatos.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\bin\Debug\Interfaces.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\obj\Debug\Formularios.FrmClientes.resources
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\obj\Debug\Formularios.FrmVentasRealizadas.resources
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\obj\Debug\Formularios.FrmEmpleados.resources
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\obj\Debug\Formularios.FrmLogin.resources
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\obj\Debug\Formularios.FrmMenu.resources
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\obj\Debug\Formularios.FrmVentas.resources
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\obj\Debug\Formularios.exe
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\obj\Debug\Formularios.FrmClientes.resources
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\obj\Debug\Formularios.FrmVentasRealizadas.resources
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\obj\Debug\Formularios.FrmEmpleados.resources
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\obj\Debug\Formularios.FrmLogin.resources
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\obj\Debug\Formularios.FrmMenu.resources
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\obj\Debug\Formularios.FrmVentas.resources
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\obj\Debug\Formularios.exe
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\bin\Debug\Formularios.exe
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\bin\Debug\CapaDeNegocio.dll
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\bin\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\bin\Debug\Serializacion.dll
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\bin\Debug\BaseDeDatos.dll
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\bin\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\bin\Debug\CapaDeNegocio.pdb
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\bin\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\bin\Debug\Serializacion.pdb
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\bin\Debug\BaseDeDatos.pdb
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\bin\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Formularios\obj\Debug\Formularios.csproj.CopyComplete

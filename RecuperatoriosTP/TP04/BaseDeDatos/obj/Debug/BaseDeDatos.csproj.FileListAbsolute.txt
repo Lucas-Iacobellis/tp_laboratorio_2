@@ -1,0 +1,132 @@
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\BaseDeDatos.dll
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\obj\Debug\BaseDeDatos.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CopyComplete
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\obj\Debug\BaseDeDatos.dll
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\obj\Debug\BaseDeDatos.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\BaseDeDatos.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\Serializacion.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\Serializacion.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\obj\Debug\BaseDeDatos.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CopyComplete
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\obj\Debug\BaseDeDatos.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\obj\Debug\BaseDeDatos.pdb
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\BaseDeDatos.dll
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\Entidades.dll
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\Serializacion.dll
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\Validaciones.dll
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\Interfaces.dll
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\Excepciones.dll
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\Entidades.pdb
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\Serializacion.pdb
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\Validaciones.pdb
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\Interfaces.pdb
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\bin\Debug\Excepciones.pdb
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\obj\Debug\BaseDeDatos.csprojAssemblyReference.cache
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CopyComplete
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\obj\Debug\BaseDeDatos.dll
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\BaseDeDatos\obj\Debug\BaseDeDatos.pdb
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\BaseDeDatos\obj\Debug\BaseDeDatos.csprojAssemblyReference.cache
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\BaseDeDatos\obj\Debug\BaseDeDatos.dll
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\BaseDeDatos\obj\Debug\BaseDeDatos.pdb
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\BaseDeDatos\bin\Debug\BaseDeDatos.dll
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\BaseDeDatos\bin\Debug\Entidades.dll
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\BaseDeDatos\bin\Debug\Serializacion.dll
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\BaseDeDatos\bin\Debug\Validaciones.dll
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\BaseDeDatos\bin\Debug\Interfaces.dll
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\BaseDeDatos\bin\Debug\Excepciones.dll
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\BaseDeDatos\bin\Debug\Entidades.pdb
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\BaseDeDatos\bin\Debug\Serializacion.pdb
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\BaseDeDatos\bin\Debug\Validaciones.pdb
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\BaseDeDatos\bin\Debug\Interfaces.pdb
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\BaseDeDatos\bin\Debug\Excepciones.pdb
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CopyComplete
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\BaseDeDatos\bin\Debug\BaseDeDatos.dll
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\BaseDeDatos\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\BaseDeDatos\bin\Debug\Serializacion.dll
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\BaseDeDatos\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\BaseDeDatos\bin\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\BaseDeDatos\bin\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\BaseDeDatos\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\BaseDeDatos\bin\Debug\Serializacion.pdb
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\BaseDeDatos\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\BaseDeDatos\bin\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\BaseDeDatos\bin\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\BaseDeDatos\obj\Debug\BaseDeDatos.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CopyComplete
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\BaseDeDatos\obj\Debug\BaseDeDatos.dll
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\BaseDeDatos\obj\Debug\BaseDeDatos.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11\BaseDeDatos\bin\Debug\BaseDeDatos.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11\BaseDeDatos\bin\Debug\Entidades.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11\BaseDeDatos\bin\Debug\Serializacion.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11\BaseDeDatos\bin\Debug\Validaciones.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11\BaseDeDatos\bin\Debug\Interfaces.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11\BaseDeDatos\bin\Debug\Excepciones.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11\BaseDeDatos\bin\Debug\Entidades.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11\BaseDeDatos\bin\Debug\Serializacion.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11\BaseDeDatos\bin\Debug\Validaciones.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11\BaseDeDatos\bin\Debug\Interfaces.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11\BaseDeDatos\bin\Debug\Excepciones.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11\BaseDeDatos\obj\Debug\BaseDeDatos.csprojAssemblyReference.cache
+C:\Users\Guada\Documents\Clases\TP04 30-11\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Guada\Documents\Clases\TP04 30-11\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CopyComplete
+C:\Users\Guada\Documents\Clases\TP04 30-11\BaseDeDatos\obj\Debug\BaseDeDatos.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11\BaseDeDatos\obj\Debug\BaseDeDatos.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11243\BaseDeDatos\bin\Debug\BaseDeDatos.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11243\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11243\BaseDeDatos\bin\Debug\Entidades.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11243\BaseDeDatos\bin\Debug\Serializacion.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11243\BaseDeDatos\bin\Debug\Validaciones.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11243\BaseDeDatos\bin\Debug\Interfaces.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11243\BaseDeDatos\bin\Debug\Excepciones.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11243\BaseDeDatos\bin\Debug\Entidades.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11243\BaseDeDatos\bin\Debug\Serializacion.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11243\BaseDeDatos\bin\Debug\Validaciones.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11243\BaseDeDatos\bin\Debug\Interfaces.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11243\BaseDeDatos\bin\Debug\Excepciones.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11243\BaseDeDatos\obj\Debug\BaseDeDatos.csprojAssemblyReference.cache
+C:\Users\Guada\Documents\Clases\TP04 30-11243\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Guada\Documents\Clases\TP04 30-11243\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CopyComplete
+C:\Users\Guada\Documents\Clases\TP04 30-11243\BaseDeDatos\obj\Debug\BaseDeDatos.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11243\BaseDeDatos\obj\Debug\BaseDeDatos.pdb
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\BaseDeDatos\bin\Debug\BaseDeDatos.dll
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\BaseDeDatos\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\BaseDeDatos\bin\Debug\Serializacion.dll
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\BaseDeDatos\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\BaseDeDatos\bin\Debug\Interfaces.dll
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\BaseDeDatos\bin\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\BaseDeDatos\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\BaseDeDatos\bin\Debug\Serializacion.pdb
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\BaseDeDatos\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\BaseDeDatos\bin\Debug\Interfaces.pdb
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\BaseDeDatos\bin\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\BaseDeDatos\obj\Debug\BaseDeDatos.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CopyComplete
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\BaseDeDatos\obj\Debug\BaseDeDatos.dll
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\BaseDeDatos\obj\Debug\BaseDeDatos.pdb

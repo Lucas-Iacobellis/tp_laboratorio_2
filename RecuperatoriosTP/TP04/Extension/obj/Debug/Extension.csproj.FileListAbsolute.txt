@@ -1,0 +1,6 @@
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Extension\bin\Debug\Extension.dll
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Extension\bin\Debug\Extension.pdb
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Extension\obj\Debug\Extension.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Extension\obj\Debug\Extension.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Extension\obj\Debug\Extension.dll
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Extension\obj\Debug\Extension.pdb

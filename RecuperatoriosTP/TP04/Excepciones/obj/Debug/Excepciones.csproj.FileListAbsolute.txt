@@ -1,0 +1,23 @@
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Excepciones\bin\Debug\Exepciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Excepciones\bin\Debug\Exepciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Excepciones\obj\Debug\Exepciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Excepciones\obj\Debug\Exepciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Excepciones\obj\Debug\Excepciones.pdb

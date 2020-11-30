@@ -1,0 +1,126 @@
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Entidades\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Entidades\obj\Debug\Entidades.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Entidades\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Entidades\obj\Debug\Entidades.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Entidades\bin\Debug\Exepciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Entidades\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Entidades\bin\Debug\Exepciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Entidades\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.PP\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Entidades\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Entidades\bin\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Entidades\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Entidades\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Entidades\obj\Debug\Entidades.dll
+C:\Users\Windows\Desktop\Iacobellis.Lucas.RPP\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Entidades\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Entidades\bin\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Entidades\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Entidades\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Entidades\obj\Debug\Entidades.dll
+C:\Users\Windows\Desktop\Parciales\RPP\Iacobellis.Lucas.RPP\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Entidades\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Entidades\bin\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Entidades\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Entidades\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Entidades\obj\Debug\Entidades.dll
+C:\Users\Windows\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Entidades\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Entidades\bin\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Entidades\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Entidades\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Entidades\obj\Debug\Entidades.dll
+C:\Users\Windows\Desktop\TP04 V2\TP04\Iacobellis.Lucas.2D.TP04\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Entidades\bin\Debug\Entidades.dll
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Entidades\bin\Debug\Excepciones.dll
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Entidades\bin\Debug\Validaciones.dll
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Entidades\bin\Debug\Validaciones.pdb
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Entidades\obj\Debug\Entidades.dll
+C:\Users\Guada\Desktop\TP04\Iacobellis.Lucas.2D.TP04\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Entidades\obj\Debug\Entidades.dll
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Entidades\bin\Debug\Entidades.dll
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Entidades\bin\Debug\Excepciones.dll
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Entidades\bin\Debug\Validaciones.dll
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Entidades\bin\Debug\Validaciones.pdb
+C:\Users\Guada\Documents\Clases\Lucas2911\TP04G\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Entidades\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Entidades\bin\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Entidades\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Entidades\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Entidades\obj\Debug\Entidades.dll
+C:\Users\Windows\Desktop\Ejercicios C#\TP04G_1709\TP04G\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11\Entidades\bin\Debug\Entidades.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11\Entidades\bin\Debug\Excepciones.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11\Entidades\bin\Debug\Validaciones.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11\Entidades\bin\Debug\Validaciones.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Guada\Documents\Clases\TP04 30-11\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Guada\Documents\Clases\TP04 30-11\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Guada\Documents\Clases\TP04 30-11\Entidades\obj\Debug\Entidades.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Entidades\bin\Debug\Entidades.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Entidades\bin\Debug\Excepciones.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Entidades\bin\Debug\Validaciones.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Entidades\bin\Debug\Validaciones.pdb
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Entidades\obj\Debug\Entidades.dll
+C:\Users\Guada\Documents\Clases\TP04 30-11243\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Entidades\bin\Debug\Entidades.dll
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Entidades\bin\Debug\Excepciones.dll
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Entidades\bin\Debug\Validaciones.dll
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Entidades\bin\Debug\Validaciones.pdb
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Entidades\obj\Debug\Entidades.dll
+C:\Users\Windows\Desktop\TP04 30-915\TP04 30-915\Entidades\obj\Debug\Entidades.pdb
